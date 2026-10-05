@@ -161,48 +161,6 @@ A transportation marketplace designed to connect transportation offices, captain
 
 ---
 
-### CaffeeGo
-
-**Coffee ordering ecosystem**
-
-A complete coffee ordering system with customer and administration experiences.
-
-**Features**
-
-* Online and cash payments
-* Order management and tracking
-* Push notifications
-* Product and category management
-* Admin dashboard
-* Google Sign-In
-* Local storage
-* Firebase integration
-
-**Tech:**
-`Flutter` `Firebase` `Firestore` `FCM` `Hive` `Clean Architecture`
-
----
-
-### Carify
-
-**AI-powered automotive marketplace**
-
-Graduation project focused on connecting users with automotive agencies through a modern car marketplace.
-
-**Features**
-
-* Authentication and user verification
-* Car discovery and search
-* Advanced filtering
-* Car listing management
-* Buy and rent workflows
-* Agency communication
-* AI-powered car specification extraction
-
-**Tech:**
-`Flutter` `Firebase` `REST APIs` `AI` `Clean Architecture`
-
----
 
 ## Technical Skills
 
