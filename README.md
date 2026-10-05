@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Youssef</h1>
+<h1 align="center">Mahmoud Youssef</h1>
 
-<h3 align="center">
-  Flutter Developer | Mobile Application Engineer
-</h3>
+<h3 align="center">Flutter Developer | Mobile Application Engineer</h3>
 
 <p align="center">
-  Building scalable, production-ready mobile applications with Flutter, clean architecture, and modern backend technologies.
+  Building scalable, reliable, and production-ready mobile applications for iOS and Android.
 </p>
 
 <p align="center">
@@ -22,308 +20,244 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Flutter Developer** focused on building reliable, scalable, and maintainable mobile applications for **iOS and Android**.
+**Flutter Developer with 2+ years of professional experience and 5 production mobile applications published on the App Store and Google Play.**
 
-I have professional experience working on **production applications** and developing end-to-end mobile solutions using **Flutter, Firebase, Supabase, PostgreSQL, REST APIs, and native Android integrations**.
+I build and maintain scalable mobile applications for **iOS and Android**, with hands-on experience across application architecture, backend integration, payments, notifications, location services, and native platform features.
 
-My approach to development focuses on:
+My engineering approach focuses on:
 
-* 🏗️ Clean and scalable architecture
-* 🧩 Feature-first project organization
-* 🔄 Reliable state management with Cubit/BLoC
-* 🔐 Secure authentication and role-based access control
-* ⚡ Performance optimization and efficient data handling
-* 📱 Responsive and user-focused UI/UX
-* 🚀 Production releases and application maintenance
-* 🤖 AI-assisted development and modern engineering workflows
+* Clean and maintainable architecture
+* SOLID principles and design patterns
+* Feature-first project organization
+* Reliable state management with BLoC/Cubit
+* Performance and efficient data handling
+* Native platform integrations
+* Production releases and application maintenance
+* Building reliable experiences for real-world users
 
-Currently, I work as a **Flutter Developer at Midas Misr**, contributing to production mobile applications and real-world business solutions.
+Currently working as a **Flutter Developer at Midas Misr**, contributing to production mobile applications and business-critical features.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Flutter Developer — Midas Misr
 
 **May 2025 – Present**
 
-Working on production mobile applications serving real users across **iOS and Android**.
+Working on production Flutter applications for iOS and Android.
 
-Key areas of experience include:
+**Responsibilities & Contributions**
 
-* Developing and maintaining production Flutter applications
-* Implementing authentication, booking, payments, and service workflows
-* Integrating Firebase Authentication, Firestore, Storage, FCM, Crashlytics, and Analytics
-* Improving application performance and data handling
-* Debugging, refactoring, and maintaining existing production codebases
-* Contributing to production releases and application lifecycle management
+* Develop and maintain production mobile applications
+* Implement authentication, booking, payment, and service workflows
+* Integrate Firebase Authentication, Firestore, Storage, FCM, Crashlytics, and Analytics
+* Integrate REST APIs and third-party services
+* Implement native Android features and platform integrations
+* Improve application performance, reliability, and user experience
+* Debug and maintain existing production codebases
+* Prepare and manage application releases for App Store and Google Play
+* Contribute to architecture and technical improvements across the codebase
 
----
+### Flutter Developer Intern — RASID & Cellula Technologies
 
-## 🚀 Featured Projects
+**2024**
 
-### 🚌 Easy Way Transportation (EWT)
-
-A multi-application transportation marketplace currently in development, designed to connect transportation offices, captains, and clients through a unified ecosystem.
-
-**Applications:**
-
-* 📱 Client Application
-* 🚗 Captain Application
-* 🖥️ Office / Dashboard Application
-
-**Key Features & Architecture:**
-
-* Multi-office transportation marketplace architecture
-* Route and trip management
-* Trip discovery and seat selection
-* Booking lifecycle and payment workflows
-* GPS-based live trip tracking
-* Real-time location visibility for clients and captains
-* Role-based access control
-* Office-scoped data access
-* Secure multi-office data isolation
-* Supabase and PostgreSQL backend
-* Row Level Security (RLS)
-* Database functions and backend workflows
-* Clean Architecture and Cubit-based state management
-
-**Tech Stack:**
-
-`Flutter` `Dart` `Supabase` `PostgreSQL` `Clean Architecture` `Cubit` `GPS Tracking` `RLS`
+Worked on Flutter applications and real-world mobile development projects, gaining experience in API integration, application architecture, state management, and collaborative development workflows.
 
 ---
 
-### 🕌 Mishkat Al-Ahadith
+## Selected Projects
 
-A production Arabic-first Hadith application designed to provide users with an accessible and reliable Islamic knowledge experience.
+### Mishkat Al-Ahadith
 
-**Highlights:**
+**Production Islamic Hadith application for Android**
 
-* 📚 Comprehensive Hadith library
-* 📴 Offline-first data access and caching
-* 🔔 Daily Hadith and scheduled notifications
-* 📱 Native Android Home Screen Widgets
-* 🕋 Prayer time integration
-* 🌍 Arabic RTL experience
-* 🏗️ Clean Architecture
-* 🔄 Cubit state management
-* 🔥 Firebase Authentication, Firestore, Crashlytics, and Analytics
-* ⚡ Optimized local data access and smooth scrolling
+A modern Arabic-first Hadith application focused on fast access to Islamic knowledge with offline support and native Android integrations.
 
-**Available on Google Play:**
+**Highlights**
 
-<a href="https://play.google.com/store/apps/details?id=com.mishkat_almasabih.app">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
+* 51,000+ Hadiths across multiple collections
+* Offline-first data access and local caching
+* Daily Hadith notifications
+* Native Android Home Screen Widget
+* Prayer times and Qiblah
+* Arabic RTL interface
+* Firebase integration
+* Crash reporting and analytics
+* Optimized local data access and smooth scrolling
+* Production release and ongoing maintenance
+
+**Tech:**
+`Flutter` `Dart` `Clean Architecture` `Cubit` `Firebase` `Hive` `FCM` `Android Widgets`
 
 ---
 
-### 🏠 Midas Misr — Home Services
+### Midas Misr — Home Services Marketplace
 
-A production home-services marketplace developed for iOS and Android.
+**Production mobile application for iOS and Android**
 
-The platform serves **7,000+ workers across 100+ agents**, providing customers with access to home service workflows.
+A home-services marketplace connecting customers with service providers and managing the complete service booking experience.
 
-**Key Areas:**
+The platform supports **7,000+ workers across 100+ agents**.
 
-* User authentication
+**Key Areas**
+
+* Authentication and user management
 * Service discovery
 * Booking workflows
 * Payment integrations
-* Real-time updates
 * Push notifications
-* Firebase backend services
-* Production application maintenance
-* Performance optimization
+* Real-time updates
+* Firebase services
+* Production maintenance and releases
+* Performance and reliability improvements
 
-**Platform:**
-
-`Flutter` `Firebase` `Firestore` `FCM` `Crashlytics` `Analytics`
-
----
-
-### 🏗️ Moona W Ogra
-
-A renovation cost estimation platform focused on simplifying renovation planning through dynamic calculation logic and user-oriented workflows.
-
-**Highlights:**
-
-* Dynamic renovation cost calculations
-* User-focused workflows
-* Interactive UI
-* Flutter-based mobile experience
+**Tech:**
+`Flutter` `Firebase` `Firestore` `FCM` `Crashlytics` `REST APIs` `Payments`
 
 ---
 
-### ☕ CaffeeGo — Coffee Shop Ecosystem
+### Moona W Ogra
 
-A complete coffee ordering ecosystem consisting of customer and administration experiences.
+**Production renovation platform**
 
-**Features:**
+A mobile platform focused on simplifying renovation planning and cost estimation through dynamic calculations and user-oriented workflows.
 
-* Online and cash payment workflows
-* Order management
-* Order tracking
+**Tech:**
+`Flutter` `Dart` `REST APIs` `Firebase`
+
+---
+
+### Easy Way Transportation (EWT)
+
+**Multi-application transportation platform**
+
+A transportation marketplace designed to connect transportation offices, captains, and clients through a unified ecosystem.
+
+**Applications**
+
+* Client Application
+* Captain Application
+* Office Dashboard
+* Platform Owner Dashboard
+
+**Key Features**
+
+* Multi-office architecture
+* Route and trip management
+* Seat selection and booking
+* Booking lifecycle management
+* Captain GPS tracking
+* Real-time trip location
+* Role-based access control
+* Office-scoped data access
+* Subscription and SaaS workflows
+
+**Tech:**
+`Flutter` `Dart` `Clean Architecture` `Cubit` `GPS` `REST APIs`
+
+---
+
+### CaffeeGo
+
+**Coffee ordering ecosystem**
+
+A complete coffee ordering system with customer and administration experiences.
+
+**Features**
+
+* Online and cash payments
+* Order management and tracking
 * Push notifications
 * Product and category management
 * Admin dashboard
-* Firebase Authentication
 * Google Sign-In
-* Hive local storage
-* FCM notifications
-* Animated UI
-* Clean Architecture
+* Local storage
+* Firebase integration
 
-**Repository:**
-
-<a href="https://github.com/mahmoudyoussef3/CaffeeGo">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech:**
+`Flutter` `Firebase` `Firestore` `FCM` `Hive` `Clean Architecture`
 
 ---
 
-### 🚘 Carify — Automotive Marketplace
+### Carify
 
-A graduation project focused on connecting users with automotive agencies and providing a modern car marketplace experience.
+**AI-powered automotive marketplace**
 
-**Features:**
+Graduation project focused on connecting users with automotive agencies through a modern car marketplace.
 
-* Secure authentication
-* User verification
-* Car browsing and discovery
-* Search and filtering
-* Agency communication
-* Car listing creation
+**Features**
+
+* Authentication and user verification
+* Car discovery and search
+* Advanced filtering
+* Car listing management
 * Buy and rent workflows
+* Agency communication
 * AI-powered car specification extraction
 
-**Repository:**
-
-<a href="https://github.com/mahmoudyoussef3/carify_app">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Tech:**
+`Flutter` `Firebase` `REST APIs` `AI` `Clean Architecture`
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 📱 Mobile Development
+### Mobile Development
 
-* Flutter
-* Dart
-* Android SDK
-* iOS
-* Native Android Integration
-* Platform Channels
-* Android Home Screen Widgets
-* Responsive UI
-* Animations
-* Performance Optimization
+`Flutter` `Dart` `Android` `iOS` `Android SDK` `Platform Channels` `Native Android` `Home Screen Widgets` `Responsive UI`
 
-### 🏗️ Architecture & Engineering
+### Architecture & Design
 
-* Clean Architecture
-* MVVM
-* Repository Pattern
-* SOLID Principles
-* OOP
-* Design Patterns
-* Feature-First Architecture
-* Dependency Injection
+`Clean Architecture` `SOLID` `OOP` `Repository Pattern` `Dependency Injection` `Design Patterns` `Feature-First Architecture` `MVVM`
 
-### 🔄 State Management
+### State Management
 
-* Cubit
-* BLoC
-* Provider
+`BLoC` `Cubit` `Provider`
 
-### ☁️ Backend & Database
+### Backend & APIs
 
-* Supabase
-* PostgreSQL
-* Firebase
-* Firestore
-* Firebase Authentication
-* Firebase Storage
-* REST APIs
-* Row Level Security (RLS)
-* Database Functions
+`REST APIs` `Firebase` `Firestore` `Firebase Authentication` `Firebase Storage` `Supabase` `PostgreSQL`
 
-### 🌐 Networking & Integrations
+### Networking & Integrations
 
-* Dio
-* Retrofit
-* Google Maps
-* GPS & Location Services
-* Stripe
-* Paymob
-* Gemini AI
+`Dio` `Retrofit` `Google Maps` `GPS` `Location Services` `Stripe` `Paymob` `Gemini AI`
 
-### 💾 Local Storage
+### Local Storage
 
-* Hive
-* SharedPreferences
-* Flutter Secure Storage
-* SQLite / Sqflite
+`Hive` `SQLite` `SharedPreferences` `Flutter Secure Storage`
 
-### 🔔 Notifications
+### Notifications
 
-* Firebase Cloud Messaging (FCM)
-* Local Notifications
-* Scheduled Notifications
+`Firebase Cloud Messaging` `Local Notifications` `Scheduled Notifications`
 
-### 🚀 CI/CD & Release
+### DevOps & Release
 
-* Git
-* GitHub Actions
-* Fastlane
-* Shorebird
-* Flutter Flavors
-* App Store Connect
-* Google Play Console
+`Git` `GitHub Actions` `Fastlane` `Shorebird` `Flutter Flavors` `App Store Connect` `Google Play Console`
 
-### 🔧 Development Tools
+### Tools
 
-* Android Studio
-* VS Code
-* Postman
-* Figma
-* Firebase CLI
+`Android Studio` `VS Code` `Postman` `Figma` `Firebase CLI`
 
 ---
 
-## 🎓 Training & Education
+## Education
 
-🎓 **Bachelor's Degree in Computer Science**
+**Bachelor of Computer Science**
 Higher Technological Institute — 2020–2024
 
-📱 **Flutter Mobile Application Development Training**
+**Flutter Mobile Application Development**
 Information Technology Institute (ITI)
 
-📱 **Android Development Diploma**
+**Android Development Diploma**
 Route IT Training Center
-
-📱 **Mobile Application Development with Flutter**
-Route Academy
-
-📚 **Flutter & Dart — The Complete Guide**
-Maximilian Schwarzmüller — Udemy
-
-📚 **Flutter & Dart Complete Development Course**
-Tharwat Samy
-
-🏗️ **Flutter Advanced Course: BLoC & MVVM Pattern**
-Tharwat Samy
-
-🤖 **Code with AI**
-AI-assisted software development, prompting, debugging, problem solving, and developer productivity
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussef3&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -332,9 +266,9 @@ AI-assisted software development, prompting, debugging, problem solving, and dev
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'm always interested in discussing **Flutter development, mobile architecture, backend integration, performance optimization, and interesting software projects**.
+I'm open to opportunities involving **Flutter development, mobile architecture, backend integration, native platform features, and building production applications at scale.**
 
 <p align="center">
   <a href="mailto:mahmoudyousse220@gmail.com">
@@ -343,11 +277,4 @@ I'm always interested in discussing **Flutter development, mobile architecture, 
   <a href="https://www.linkedin.com/in/mahmoud-youssef-863b3b21a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mahmoudyoussef3">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Thanks for visiting my profile! ⭐</strong>
 </p>
